@@ -3,6 +3,6 @@ change made for practic e
 This is the starting stage 
 this is used for practicing purpose 
 useless code removed
-this is a change in remote github repo
+this is a change in remote github repository
 
 
