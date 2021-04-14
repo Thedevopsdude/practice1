@@ -3,5 +3,4 @@ change made for practic e
 This is the starting stage 
 this is used for practicing purpose 
 useless code removed
-this line is used for conflict concept
-
+This change is made in local working directory. 
