@@ -8,5 +8,6 @@ this is a change repository
 change in local repo
 change in remote repo
  devops is highly paid
+git is a open source and free 
 
 
