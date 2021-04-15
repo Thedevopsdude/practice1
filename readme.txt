@@ -5,6 +5,6 @@ this is used for practicing purpose
 useless code removed
 THIS LINE is in local repo 
 this is a change repository
-change in remote
+change in local repo
 
 
