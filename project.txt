@@ -1,3 +1,5 @@
 created the new file push into it 
 Im pushing all thre files into my repo
 Nothing, jus creating a conflict
+Conflict line created in remote repo. 
+ ngfdfsupiol
