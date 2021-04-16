@@ -4,4 +4,3 @@ Nothing, jus creating a conflict
 Conflict line created in remote repo. 
  ngfdfsupiol
  remote 
-git revert concept.
