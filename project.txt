@@ -1,3 +1,7 @@
 created the new file push into it 
 Im pushing all thre files into my repo
+<<<<<<< HEAD
 Nothing, jus creating a conflict
+=======
+Conflict line created in remote repo. 
+>>>>>>> 5bf2187f6c06b3116cb01da905c7cae6a1c18ac1
