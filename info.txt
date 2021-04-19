@@ -2,7 +2,7 @@ git is an open source
 git is free
 git is easy
 THIS IS THE NEW FILE CREATED TO PUSH INTO GIT
-i NEED to get the job
+im in work
  new line added for branching
  This is task 3
  changes made for branching 
